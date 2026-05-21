@@ -20,6 +20,8 @@ Current focus areas include:
 - Security Utility Toolkit
 
 ## Certifications / Education
+- Business IT Fundamentals Certificate (complete)
+- Network Communications Technology AAS (complete)
 - Cyber & Information Security AAS (in progress)
 - Security Fundamentals Certificate (in progress)
 
