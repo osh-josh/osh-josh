@@ -21,7 +21,7 @@ Current focus areas include:
 
 ## Certifications / Education
 - Business IT Fundamentals Certificate (complete)
-- Network Communications Technology AAS (complete)
+- Network Communications Technology AAB (complete)
 - Cyber & Information Security AAS (in progress)
 - Security Fundamentals Certificate (in progress)
 
